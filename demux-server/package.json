@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "big-integer": "^1.6.47",
+    "demux-eos": "^4.0.1",
+    "demux-postgres": "^4.0.1",
+    "eosjs": "^20.0.0",
+    "util": "^0.12.1"
+  }
+}
